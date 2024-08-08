@@ -1,0 +1,1 @@
+{"version":3,"names":["createContext","useContext","ButtonContext","useButtonContext"],"sourceRoot":"../../src","sources":["Context.tsx"],"mappings":"AAAA,SAASA,aAAa,EAAEC,UAAU,QAAQ,OAAO;AACjD,OAAO,MAAMC,aAAa,gBAAGF,aAAa,CAAM,CAAC,CAAC,CAAC;AACnD,OAAO,MAAMG,gBAAgB,GAAGA,CAAA,KAAMF,UAAU,CAACC,aAAa,CAAC","ignoreList":[]}

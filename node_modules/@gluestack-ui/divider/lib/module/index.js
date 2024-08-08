@@ -1,0 +1,9 @@
+import { Divider as DividerMain } from './Divider';
+export function createDivider({
+  Root
+}) {
+  const Divider = DividerMain(Root);
+  Divider.displayName = 'Divider';
+  return Divider;
+}
+//# sourceMappingURL=index.js.map

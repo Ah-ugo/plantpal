@@ -1,0 +1,16 @@
+/// <reference types="react" />
+export declare const LinkContext: import("react").Context<{
+    isHovered: boolean;
+    isFocused: boolean;
+    isPressed: boolean;
+    isDisabled: boolean;
+    isFocusVisible: boolean;
+}>;
+export declare const useLinkContext: () => {
+    isHovered: boolean;
+    isFocused: boolean;
+    isPressed: boolean;
+    isDisabled: boolean;
+    isFocusVisible: boolean;
+};
+//# sourceMappingURL=Context.d.ts.map
