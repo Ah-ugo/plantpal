@@ -35,9 +35,11 @@ com.reactnativeapp-mergeDebugResources-33 C:\Users\USER\ReactApp\plantpal\androi
 com.reactnativeapp-merged_res-34 C:\Users\USER\ReactApp\plantpal\android\app\build\intermediates\merged_res\debug
 com.reactnativeapp-debug-35 C:\Users\USER\ReactApp\plantpal\android\app\src\debug\res
 com.reactnativeapp-main-36 C:\Users\USER\ReactApp\plantpal\android\app\src\main\res
-com.reactnativeapp-packaged_res-37 C:\Users\USER\ReactApp\plantpal\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\packaged_res\debug
-com.reactnativeapp-packaged_res-38 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
-com.reactnativeapp-packaged_res-39 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
-com.reactnativeapp-packaged_res-40 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
-com.reactnativeapp-packaged_res-41 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-svg\android\build\intermediates\packaged_res\debug
-com.reactnativeapp-packaged_res-42 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-37 C:\Users\USER\ReactApp\plantpal\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-38 C:\Users\USER\ReactApp\plantpal\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-39 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-40 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-reanimated\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-41 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-42 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-43 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-svg\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-44 C:\Users\USER\ReactApp\plantpal\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
