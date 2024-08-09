@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.reactnativeapp-mergeDebugResources-32:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "com.reactnativeapp-mergeDebugResources-34:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\9623e378e4dfc57c47793d0ffd25ee05\\transformed\\core-1.8.0\\res\\values-en-rXC\\values-en-rXC.xml",
