@@ -11,11 +11,13 @@ import Login from './pages/mainPages/Auth/Login';
 import SelectCrops from './pages/mainPages/postScreens/SelectCrops';
 import DrawerNavig from './Navigators/DrawerNavig';
 import BottomNavig from './Navigators/BottomNavig';
+import ContextProvider from './Context/mainContext';
 
 const Stack = createStackNavigator();
 
 export default function PageWrapper() {
   return (
+    <ContextProvider>
     <GluestackUIProvider config={config}>
         <NavigationContainer>
         <Stack.Navigator>
@@ -28,5 +30,6 @@ export default function PageWrapper() {
         </Stack.Navigator>
         </NavigationContainer>
     </GluestackUIProvider>
+    </ContextProvider>
   )
 }
